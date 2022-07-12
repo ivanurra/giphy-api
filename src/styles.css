@@ -4,13 +4,13 @@
   }
   
   body {
-    padding: 60px;
+    padding: 80px;
   }
   
   input {
     background-color: white;
-    border-radius: 5px;
-    border: 1px solid rgb(97, 32, 158);
+    border-radius: 10px;
+    border: 1px solid rgb(220, 79, 14);
     color: black;
     font-size: 1.2rem;
     outline: none;
