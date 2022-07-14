@@ -601,10 +601,22 @@ nanoid@^3.3.4:
   resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.4.tgz#730b67e3cd09e2deacf03c027c81c9d9dbc5e8ab"
   integrity sha512-MqBkQh/OHTS2egovRtLk45wEyNXwF+cokD+1YPf9u5VfJiRdAiRwB2froX5Co9Rh20xs4siNPm8naNotSD6RBw==
 
+node-bin-setup@^1.0.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/node-bin-setup/-/node-bin-setup-1.1.0.tgz#9df94c41335a8f41958a639b2736f860582a209c"
+  integrity sha512-pTeU6NgUrexiLNtd+AKwvg6cngHMvj5FZ5e2bbv2ogBSIc9yhkXSSaTScfSRZnwHIh5YFmYSYlemLWkiKD7rog==
+
 node-releases@^2.0.5:
   version "2.0.5"
   resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-2.0.5.tgz#280ed5bc3eba0d96ce44897d8aee478bfb3d9666"
   integrity sha512-U9h1NLROZTq9uE1SNffn6WuPDg8icmi3ns4rEl/oTfIle4iLjTliCzgTsbaIFMq/Xn078/lfY/BL0GWZ+psK4Q==
+
+node@^18.5.0:
+  version "18.5.0"
+  resolved "https://registry.yarnpkg.com/node/-/node-18.5.0.tgz#8a89fa3b0a801de4888155e7ce3b7d3c60dc15c4"
+  integrity sha512-o0o7TfrD92IRQrwbvbExjl+i1ZXAyXdYS3vAMYn/1Oez6hKVnIp+bWxXBnh3USCpYK65zTW9VLAIBrCiyfhUuA==
+  dependencies:
+    node-bin-setup "^1.0.0"
 
 path-parse@^1.0.7:
   version "1.0.7"
