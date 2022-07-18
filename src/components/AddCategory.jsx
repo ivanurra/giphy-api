@@ -16,7 +16,7 @@ export const AddCategory = ({ onNewCategory }) => {
   };
 
   return (
-    <form onSubmit={onSubmit}>
+    <form onSubmit={onSubmit} className="input">
       <input
         type="text"
         placeholder="Write here to find Gifs 😄"
