@@ -1,6 +1,6 @@
 * {
     font-family: Helvetica, Arial, sans-serif;
-    background-color: rgb(219, 219, 219);
+    background-color: rgb(230, 230, 230);
   }
   
   body {
@@ -10,7 +10,7 @@
   input {
     background-color: white;
     border-radius: 10px;
-    border: 1px solid rgb(220, 79, 14);
+    border: 1px solid rgb(71, 61, 165);
     color: black;
     font-size: 1.2rem;
     outline: none;
