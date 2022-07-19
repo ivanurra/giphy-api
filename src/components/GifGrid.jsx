@@ -14,7 +14,7 @@ export const GifGrid = ({ category }) => {
           ))}
         </div>
       ) : (
-        "Searching"
+        "Loading..."
       )}
     </>
   );
